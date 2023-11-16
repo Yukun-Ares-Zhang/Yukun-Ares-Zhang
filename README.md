@@ -7,5 +7,5 @@
 - 💬 Ask me about Python, C/C++. I have 3 years of experience in coding.
 - 📫 How to reach me: email me at yk.ares.zhang@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: time allocation of coding = 5% algorithm design + 5% script writing + 90% debugging 
+- ⚡ Fun fact: coding = 5% algorithm design + 5% script writing + 90% debugging 
 
